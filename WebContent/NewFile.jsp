@@ -43,7 +43,7 @@
 	<div region="west" style="width:100px" title="导航菜单" split="true">
 		<ul id="tree"></ul>
 	</div>
-	<div region="south" style="height:25px" align="center">版权所有：菲菲所有</div>
+	<div region="south" style="height:25px" align="center">版权所有：菲菲所有hfdhgdjghdhgdhgjdhdjhgdj添加测试用于测试</div>
 	
 
 </body>
